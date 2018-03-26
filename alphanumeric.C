@@ -4,7 +4,7 @@ int main()
 {
 int i,l;
 char a[10];
-printf("\n enter the string:'0;
+printf("\n enter the string:");
 scanf("%s",a);
 l=strlen(a);
 for(i=0;i<=l;i++)
